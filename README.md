@@ -24,7 +24,7 @@ For the social icons
 
 ## Challenge live URL 
 
-https://wadmortada.github.io/four-card-feature/
+https://wadmortada.github.io/huddle-landing-page/
 
 ## Finally
 
